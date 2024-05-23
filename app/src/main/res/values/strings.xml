@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile</string>
+    <string name="excluir">Excluir</string>
+    <string name="product_image">Product image</string>
+    <string name="product">Product</string>
+    <string name="r_299_90">R$ 299,90</string>
+</resources>
